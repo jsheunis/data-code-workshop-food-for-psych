@@ -1,5 +1,5 @@
-nipy
 numpy
+nipy
 matplotlib
 nibabel
 awscli
