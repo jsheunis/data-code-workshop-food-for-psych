@@ -1,0 +1,6 @@
+nipy
+numpy
+matplotlib
+nibabel
+awscli
+niwidgets
